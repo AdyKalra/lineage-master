@@ -13,3 +13,5 @@ http://www.bengarvey.com/lineage
 - To hear the music, check the music checkbox and press play
 - To see the full dataset in the demo, remove all the names from the search box
 
+python3 -m http.server 4000
+
