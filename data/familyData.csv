@@ -1,4 +1,4 @@
-id,name,spouseId,fatherId,motherId,gender,alive?,birthDate,deathDate
+id,name,spouseId,fatherId,motherId,gender,active?,startDate,endDate
 0,"Racing, Racing",,,,M,N,1875-01-01T00:00:00.000Z,1983-01-01T00:00:00.000Z
 1,"Skywalker, Shmi",,,,F,N,1905-01-01T00:00:00.000Z,1955-01-01T00:00:00.000Z
 2,"Skywalker, Anakin",3,,1,M,N,1935-01-01T00:00:00.000Z,1983-01-01T00:00:00.000Z
