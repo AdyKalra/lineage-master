@@ -3,7 +3,7 @@ csvParse = require 'csv-parse'
 async = require 'async'
 
 console.log "Converting family..."
-CSV_FILE = 'data/tree2.csv'
+CSV_FILE = 'data/familyData.csv'
 
 getPeople = (callback) ->
   fs.readFile CSV_FILE, 'utf-8', (err, data) ->
