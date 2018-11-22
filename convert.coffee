@@ -2,7 +2,7 @@ fs = require 'fs'
 csvParse = require 'csv-parse'
 async = require 'async'
 
-FAMILY_CSV_FILE = 'data/tree2.csv'
+FAMILY_CSV_FILE = 'data/familyData.csv'
 FAMILY_JSON_FILE = 'data/temp.json'
 SPOUSE_COLOR = '#CC0'
 MOTHER_COLOR = '#F39'
