@@ -1,0 +1,13 @@
+id,name,spouseId,fatherId,motherId,gender,active?,startDate,endDate
+0,"Racing, Thoroughbreds",,,,M,N,1875-01-01T00:00:00.000Z,1983-01-01T00:00:00.000Z
+1,"Racing, Greyhounds",,,,F,N,1905-01-01T00:00:00.000Z,1955-01-01T00:00:00.000Z
+2,"Racing, Harness",3,,1,M,N,1935-01-01T00:00:00.000Z,1983-01-01T00:00:00.000Z
+3,"Thoroughbreds, NextToJump",2,,,F,N,1925-01-01T00:00:00.000Z,1960-01-01T00:00:00.000Z
+4,"Thoroughbreds, Futures",,2,3,M,Y,1960-01-01T00:00:00.000Z,
+5,"Greyhounds, NextToJump",10,2,3,F,Y,1960-01-01T00:00:00.000Z,
+6,"Greyhounds, Futures",,,,M,N,1083-01-01T00:00:00.000Z,1983-01-01T00:00:00.000Z
+7,"Harness, NextToJump",,,,M,N,1920-01-01T00:00:00.000Z,1977-01-01T00:00:00.000Z
+8,"Harness, Futures",,2,,M,Y,1940-01-01T00:00:00.000Z,-01-01T00:00:00.000Z
+9,"R2D2",,,,M,Y,1940-01-01T00:00:00.000Z,-01-01T00:00:00.000Z
+10,"Solo, Han",5,,,M,N,1942-01-01T00:00:00.000Z,2015-01-01T00:00:00.000Z
+11,"Chewbacca",,,,M,Y,1777-01-01T00:00:00.000Z,
