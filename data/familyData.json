@@ -26,73 +26,73 @@
     },
     {
       "id": 3,
-      "name": "Racing, Padm� ",
+      "name": "NextToJump, Thoroughbreds ",
       "gender": "F",
-      "lastName": "Amidala",
+      "lastName": "Thoroughbreds",
       "birthDate": "1925-01-01T00:00:00.000Z",
       "deathDate": "1960-01-01T00:00:00.000Z"
     },
     {
       "id": 4,
-      "name": "Skywalker, Luke",
+      "name": "Futures, Thoroughbreds",
       "gender": "M",
-      "lastName": "Skywalker",
+      "lastName": "Thoroughbreds",
       "birthDate": "1960-01-01T00:00:00.000Z",
       "deathDate": null
     },
     {
       "id": 5,
-      "name": "Organa, Leia",
+      "name": "NextToJump, Greyhounds",
       "gender": "F",
-      "lastName": "Organa",
+      "lastName": "Greyhounds",
       "birthDate": "1960-01-01T00:00:00.000Z",
       "deathDate": null
     },
     {
       "id": 6,
-      "name": "Yoda",
+      "name": "Futures, Greyhounds",
       "gender": "M",
-      "lastName": "Yoda",
+      "lastName": "Greyhounds",
       "birthDate": "1083-01-01T00:00:00.000Z",
       "deathDate": "1983-01-01T00:00:00.000Z"
     },
     {
       "id": 7,
-      "name": "Kenobi, Obi-Wan",
+      "name": "NextToJump, Harness",
       "gender": "M",
-      "lastName": "Kenobi",
+      "lastName": "Harness",
       "birthDate": "1920-01-01T00:00:00.000Z",
       "deathDate": "1977-01-01T00:00:00.000Z"
     },
     {
       "id": 8,
-      "name": "C3PO",
+      "name": "Futures, Harness",
       "gender": "M",
-      "lastName": "C3PO",
+      "lastName": "Harness",
       "birthDate": "1940-01-01T00:00:00.000Z",
       "deathDate": "-01-01T00:00:00.000Z"
     },
     {
       "id": 9,
-      "name": "R2D2",
+      "name": "RacingSpecials",
       "gender": "M",
-      "lastName": "R2D2",
+      "lastName": "Racing",
       "birthDate": "1940-01-01T00:00:00.000Z",
       "deathDate": "-01-01T00:00:00.000Z"
     },
     {
       "id": 10,
-      "name": "Solo, Han",
+      "name": "BlackBook",
       "gender": "M",
-      "lastName": "Solo",
+      "lastName": "Racing",
       "birthDate": "1942-01-01T00:00:00.000Z",
       "deathDate": "2015-01-01T00:00:00.000Z"
     },
     {
       "id": 11,
-      "name": "Chewbacca",
+      "name": "JockeyChallenge",
       "gender": "M",
-      "lastName": "Chewbacca",
+      "lastName": "Racing",
       "birthDate": "1777-01-01T00:00:00.000Z",
       "deathDate": null
     }
