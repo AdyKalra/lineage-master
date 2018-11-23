@@ -2,31 +2,31 @@
   "nodes": [
     {
       "id": 0,
-      "name": "Racing, Thoroughbreds",
+      "name": "Thoroughbreds, Racing",
       "gender": "M",
-      "lastName": "Thoroughbreds",
+      "lastName": "Racing",
       "birthDate": "1875-01-01T00:00:00.000Z",
       "deathDate": "1983-01-01T00:00:00.000Z"
     },
     {
       "id": 1,
-      "name": "Skywalker, Shmi",
+      "name": "Greyhounds, Racing",
       "gender": "F",
-      "lastName": "Skywalker",
+      "lastName": "Racing",
       "birthDate": "1905-01-01T00:00:00.000Z",
       "deathDate": "1955-01-01T00:00:00.000Z"
     },
     {
       "id": 2,
-      "name": "Skywalker, Anakin",
+      "name": "Harness, Racing",
       "gender": "M",
-      "lastName": "Skywalker",
+      "lastName": "Racing",
       "birthDate": "1935-01-01T00:00:00.000Z",
       "deathDate": "1983-01-01T00:00:00.000Z"
     },
     {
       "id": 3,
-      "name": "Amidala, Padm� ",
+      "name": "Racing, Padm� ",
       "gender": "F",
       "lastName": "Amidala",
       "birthDate": "1925-01-01T00:00:00.000Z",
