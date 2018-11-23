@@ -103,7 +103,248 @@
       "lastName": "Racing",
       "birthDate": "1777-01-01T00:00:00.000Z",
       "deathDate": null
+    },
+	{
+      "id": 13,
+      "name": "UpComing, Sports",
+      "gender": "M",
+      "lastName": "Sports",
+      "birthDate": "1777-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 14,
+      "name": "LiveBetting, Sports",
+      "gender": "M",
+      "lastName": "Sports",
+      "birthDate": "1777-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 15,
+      "name": "WatchLive, Sports",
+      "gender": "M",
+      "lastName": "Sports",
+      "birthDate": "1777-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 16,
+      "name": "UpComing, Sports",
+      "gender": "M",
+      "lastName": "Sports",
+      "birthDate": "1777-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 17,
+      "name": "MultiExpress, Sports",
+      "gender": "M",
+      "lastName": "Sports",
+      "birthDate": "1777-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 18,
+      "name": "EnhancedOdds, Sports",
+      "gender": "M",
+      "lastName": "Sports",
+      "birthDate": "1777-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 19,
+      "name": "FeaturedSports, Basketball",
+      "gender": "M",
+      "lastName": "Basketball",
+      "birthDate": "1777-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 20,
+      "name": "FeaturedSports, Tennis",
+      "gender": "M",
+      "lastName": "Tennis",
+      "birthDate": "1777-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 21,
+      "name": "FeaturedSports, Soccer",
+      "gender": "M",
+      "lastName": "Soccer",
+      "birthDate": "1777-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 22,
+      "name": "AllSports, AmericanFootball",
+      "gender": "M",
+      "lastName": "AmericanFootball",
+      "birthDate": "1777-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 23,
+      "name": "AllSports, AustralianRules",
+      "gender": "M",
+      "lastName": "AustralianRules",
+      "birthDate": "1777-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 24,
+      "name": "AllSports, Baseball",
+      "gender": "M",
+      "lastName": "Baseball",
+      "birthDate": "1777-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 25,
+      "name": "AllSports, Boxing",
+      "gender": "M",
+      "lastName": "Boxing",
+      "birthDate": "1777-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 26,
+      "name": "AllSports, Chess",
+      "gender": "M",
+      "lastName": "Chess",
+      "birthDate": "1777-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 27,
+      "name": "AllSports, Cricket",
+      "gender": "M",
+      "lastName": "Cricket",
+      "birthDate": "1777-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 28,
+      "name": "AllSports, Cycling",
+      "gender": "M",
+      "lastName": "Cycling",
+      "birthDate": "1777-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 29,
+      "name": "AllSports, Darts",
+      "gender": "M",
+      "lastName": "Darts",
+      "birthDate": "1777-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 30,
+      "name": "AllSports, Golf",
+      "gender": "M",
+      "lastName": "Golf",
+      "birthDate": "1777-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 31,
+      "name": "AllSports, Handball",
+      "gender": "M",
+      "lastName": "Handball",
+      "birthDate": "1777-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 32,
+      "name": "AllSports, IceHockey",
+      "gender": "M",
+      "lastName": "IceHockey",
+      "birthDate": "1777-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 33,
+      "name": "AllSports, LawnBowls",
+      "gender": "M",
+      "lastName": "LawnBowls",
+      "birthDate": "1777-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 34,
+      "name": "AllSports, MMA",
+      "gender": "M",
+      "lastName": "MMA",
+      "birthDate": "1777-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 35,
+      "name": "AllSports, MotorSports",
+      "gender": "M",
+      "lastName": "MotorSports",
+      "birthDate": "1777-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 36,
+      "name": "AllSports, NetBall",
+      "gender": "M",
+      "lastName": "NetBall",
+      "birthDate": "1777-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 37,
+      "name": "AllSports, RugbyLeague",
+      "gender": "M",
+      "lastName": "RugbyLeague",
+      "birthDate": "1777-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 38,
+      "name": "AllSports, RugbyUnion",
+      "gender": "M",
+      "lastName": "RugbyUnion",
+      "birthDate": "1777-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 39,
+      "name": "AllSports, Snooker",
+      "gender": "M",
+      "lastName": "Snooker",
+      "birthDate": "1777-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 40,
+      "name": "AllSports, Surfing",
+      "gender": "M",
+      "lastName": "Surfing",
+      "birthDate": "1777-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 41,
+      "name": "AllSports, TableTennis",
+      "gender": "M",
+      "lastName": "TableTennis",
+      "birthDate": "1777-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 42,
+      "name": "AllSports, VolleyBall",
+      "gender": "M",
+      "lastName": "VolleyBall",
+      "birthDate": "1777-01-01T00:00:00.000Z",
+      "deathDate": null
     }
+	
   ],
   "links": [
     {
