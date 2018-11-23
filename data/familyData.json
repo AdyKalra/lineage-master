@@ -95,66 +95,50 @@
       "lastName": "Racing",
       "birthDate": "1777-01-01T00:00:00.000Z",
       "deathDate": null
+    },
+	{
+      "id": 12,
+      "name": "SkyVision",
+      "gender": "M",
+      "lastName": "Racing",
+      "birthDate": "1777-01-01T00:00:00.000Z",
+      "deathDate": null
     }
   ],
   "links": [
     {
-      "source": 2,
+      "source": 0,
       "target": 3,
       "color": "#CC0",
       "relation": "spouse"
     },
-    {
-      "source": 2,
-      "target": 1,
-      "color": "#F39",
-      "relation": "mother"
-    },
-    {
-      "source": 3,
-      "target": 2,
+	{
+      "source": 0,
+      "target": 4,
       "color": "#CC0",
       "relation": "spouse"
     },
-    {
-      "source": 4,
-      "target": 3,
-      "color": "#F39",
-      "relation": "mother"
-    },
-    {
-      "source": 4,
-      "target": 2,
-      "color": "#39F",
-      "relation": "father"
-    },
-    {
-      "source": 5,
-      "target": 10,
-      "color": "#CC0",
-      "relation": "spouse"
-    },
-    {
-      "source": 5,
-      "target": 3,
-      "color": "#F39",
-      "relation": "mother"
-    },
-    {
-      "source": 5,
-      "target": 2,
-      "color": "#39F",
-      "relation": "father"
-    },
-    {
-      "source": 8,
-      "target": 2,
-      "color": "#39F",
-      "relation": "father"
-    },
-    {
-      "source": 10,
+	{
+      "source": 1,
       "target": 5,
+      "color": "#F39",
+      "relation": "spouse"
+    },
+	{
+      "source": 1,
+      "target": 6,
+      "color": "#F39",
+      "relation": "spouse"
+    },
+	{
+      "source": 2,
+      "target": 7,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 2,
+      "target": 8,
       "color": "#CC0",
       "relation": "spouse"
     }
