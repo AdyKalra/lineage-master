@@ -154,193 +154,193 @@
     },
 	{
       "id": 19,
-      "name": "FeaturedSports, Basketball",
+      "name": "Basketball, FeaturedSports",
       "gender": "M",
-      "lastName": "Basketball",
+      "lastName": "FeaturedSports",
       "birthDate": "1777-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 20,
-      "name": "FeaturedSports, Tennis",
+      "name": "Tennis, FeaturedSports",
       "gender": "M",
-      "lastName": "Tennis",
+      "lastName": "FeaturedSports",
       "birthDate": "1777-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 21,
-      "name": "FeaturedSports, Soccer",
+      "name": "Soccer, FeaturedSports",
       "gender": "M",
-      "lastName": "Soccer",
+      "lastName": "FeaturedSports",
       "birthDate": "1777-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 22,
-      "name": "AllSports, AmericanFootball",
+      "name": "AmericanFootball, AllSports",
       "gender": "M",
-      "lastName": "AmericanFootball",
+      "lastName": "AllSports",
       "birthDate": "1777-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 23,
-      "name": "AllSports, AustralianRules",
+      "name": "AustralianRules, AllSports",
       "gender": "M",
-      "lastName": "AustralianRules",
+      "lastName": "AllSports",
       "birthDate": "1777-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 24,
-      "name": "AllSports, Baseball",
+      "name": "Baseball, AllSports",
       "gender": "M",
-      "lastName": "Baseball",
+      "lastName": "AllSports",
       "birthDate": "1777-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 25,
-      "name": "AllSports, Boxing",
+      "name": "Boxing, AllSports",
       "gender": "M",
-      "lastName": "Boxing",
+      "lastName": "AllSports",
       "birthDate": "1777-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 26,
-      "name": "AllSports, Chess",
+      "name": "Chess, AllSports",
       "gender": "M",
-      "lastName": "Chess",
+      "lastName": "AllSports",
       "birthDate": "1777-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 27,
-      "name": "AllSports, Cricket",
+      "name": "Cricket, AllSports",
       "gender": "M",
-      "lastName": "Cricket",
+      "lastName": "AllSports",
       "birthDate": "1777-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 28,
-      "name": "AllSports, Cycling",
+      "name": "Cycling, AllSports",
       "gender": "M",
-      "lastName": "Cycling",
+      "lastName": "AllSports",
       "birthDate": "1777-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 29,
-      "name": "AllSports, Darts",
+      "name": "Darts, AllSports",
       "gender": "M",
-      "lastName": "Darts",
+      "lastName": "AllSports",
       "birthDate": "1777-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 30,
-      "name": "AllSports, Golf",
+      "name": "Golf, AllSports",
       "gender": "M",
-      "lastName": "Golf",
+      "lastName": "AllSports",
       "birthDate": "1777-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 31,
-      "name": "AllSports, Handball",
+      "name": "Handball, AllSports",
       "gender": "M",
-      "lastName": "Handball",
+      "lastName": "AllSports",
       "birthDate": "1777-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 32,
-      "name": "AllSports, IceHockey",
+      "name": "IceHockey, AllSports",
       "gender": "M",
-      "lastName": "IceHockey",
+      "lastName": "AllSports",
       "birthDate": "1777-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 33,
-      "name": "AllSports, LawnBowls",
+      "name": "LawnBowls, AllSports",
       "gender": "M",
-      "lastName": "LawnBowls",
+      "lastName": "AllSports",
       "birthDate": "1777-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 34,
-      "name": "AllSports, MMA",
+      "name": "MMA, AllSports",
       "gender": "M",
-      "lastName": "MMA",
+      "lastName": "AllSports",
       "birthDate": "1777-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 35,
-      "name": "AllSports, MotorSports",
+      "name": "MotorSports, AllSports",
       "gender": "M",
-      "lastName": "MotorSports",
+      "lastName": "AllSports",
       "birthDate": "1777-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 36,
-      "name": "AllSports, NetBall",
+      "name": "NetBall, AllSports",
       "gender": "M",
-      "lastName": "NetBall",
+      "lastName": "AllSports",
       "birthDate": "1777-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 37,
-      "name": "AllSports, RugbyLeague",
+      "name": "RugbyLeague, AllSports",
       "gender": "M",
-      "lastName": "RugbyLeague",
+      "lastName": "AllSports",
       "birthDate": "1777-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 38,
-      "name": "AllSports, RugbyUnion",
+      "name": "RugbyUnion, AllSports",
       "gender": "M",
-      "lastName": "RugbyUnion",
+      "lastName": "AllSports",
       "birthDate": "1777-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 39,
-      "name": "AllSports, Snooker",
+      "name": "Snooker, AllSports",
       "gender": "M",
-      "lastName": "Snooker",
+      "lastName": "AllSports",
       "birthDate": "1777-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 40,
-      "name": "AllSports, Surfing",
+      "name": "Surfing, AllSports",
       "gender": "M",
-      "lastName": "Surfing",
+      "lastName": "AllSports",
       "birthDate": "1777-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 41,
-      "name": "AllSports, TableTennis",
+      "name": "TableTennis, AllSports",
       "gender": "M",
-      "lastName": "TableTennis",
+      "lastName": "AllSports",
       "birthDate": "1777-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 42,
-      "name": "AllSports, VolleyBall",
+      "name": "VolleyBall, AllSports",
       "gender": "M",
-      "lastName": "VolleyBall",
+      "lastName": "AllSports",
       "birthDate": "1777-01-01T00:00:00.000Z",
       "deathDate": null
     }
@@ -382,6 +382,24 @@
       "target": 8,
       "color": "#CC0",
       "relation": "spouse"
-    }
+    },
+	{
+      "source": 37,
+      "target": 38,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 19,
+      "target": 20,
+      "color": "#39F",
+      "relation": "spouse"
+    },
+	{
+      "source": 19,
+      "target": 21,
+      "color": "#39F",
+      "relation": "spouse"
+    }	
   ]
 }
