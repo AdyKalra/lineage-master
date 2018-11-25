@@ -11,7 +11,7 @@ function Lineage() {
 
   var config = {
     startYear:0001,
-    endYear: 0024,
+    endYear: 0555,
     speed: 100,
     debug: false
   };
