@@ -10,8 +10,8 @@ function Lineage() {
   }
 
   var config = {
-    startYear:2019,
-    endYear: 2019,
+    startYear:0001,
+    endYear: 0024,
     speed: 100,
     debug: false
   };
