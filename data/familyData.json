@@ -3,31 +3,27 @@
     {
       "id": 0,
       "name": "Thoroughbreds, Racing",
-      "gender": "M",
       "lastName": "Racing",
       "birthDate": "0005-01-01T00:00:00.000Z",
       "deathDate": "0365-01-01T00:00:00.000Z"
     },
     {
       "id": 1,
-      "name": "Greyhounds, Racing",
-      "gender": "F",
+      "name": "Greyhounds, Racing",      
       "lastName": "Racing",
       "birthDate": "0015-01-01T00:00:00.000Z",
       "deathDate": "0365-01-01T00:00:00.000Z"
     },
     {
       "id": 2,
-      "name": "Harness, Racing",
-      "gender": "M",
+      "name": "Harness, Racing",      
       "lastName": "Racing",
       "birthDate": "0010-01-01T00:00:00.000Z",
       "deathDate": "0365-01-01T00:00:00.000Z"
     },
     {
       "id": 3,
-      "name": "NextToJump, Thoroughbreds ",
-      "gender": "F",
+      "name": "NextToJump, Thoroughbreds ",      
       "lastName": "Thoroughbreds",
       "birthDate": "0023-01-01T00:00:00.000Z",
       "deathDate": "0365-01-01T00:00:00.000Z"
@@ -35,311 +31,271 @@
     {
       "id": 4,
       "name": "Futures, Thoroughbreds",
-      "gender": "M",
       "lastName": "Thoroughbreds",
       "birthDate": "0065-01-01T00:00:00.000Z",
       "deathDate": null
     },
     {
       "id": 5,
-      "name": "NextToJump, Greyhounds",
-      "gender": "F",
+      "name": "NextToJump, Greyhounds",      
       "lastName": "Greyhounds",
       "birthDate": "0045-01-01T00:00:00.000Z",
       "deathDate": null
     },
     {
       "id": 6,
-      "name": "Futures, Greyhounds",
-      "gender": "M",
+      "name": "Futures, Greyhounds",      
       "lastName": "Greyhounds",
       "birthDate": "0064-01-01T00:00:00.000Z",
       "deathDate": "0365-01-01T00:00:00.000Z"
     },
     {
       "id": 7,
-      "name": "NextToJump, Harness",
-      "gender": "M",
+      "name": "NextToJump, Harness",      
       "lastName": "Harness",
       "birthDate": "0085-01-01T00:00:00.000Z",
       "deathDate": "0365-01-01T00:00:00.000Z"
     },
     {
       "id": 8,
-      "name": "Futures, Harness",
-      "gender": "M",
+      "name": "Futures, Harness",      
       "lastName": "Harness",
       "birthDate": "0095-01-01T00:00:00.000Z",
-      "deathDate": "-01-01T00:00:00.000Z"
+      "deathDate": "0365-01-01T00:00:00.000Z"
     },
     {
       "id": 9,
-      "name": "RacingSpecials",
-      "gender": "M",
+      "name": "RacingSpecials",      
       "lastName": "Racing",
       "birthDate": "0105-01-01T00:00:00.000Z",
       "deathDate": "0365-01-01T00:00:00.000Z"
     },
     {
       "id": 10,
-      "name": "BlackBook",
-      "gender": "M",
+      "name": "BlackBook",      
       "lastName": "Racing",
       "birthDate": "0125-01-01T00:00:00.000Z",
       "deathDate": "0365-01-01T00:00:00.000Z"
     },
     {
       "id": 11,
-      "name": "JockeyChallenge",
-      "gender": "M",
+      "name": "JockeyChallenge",      
       "lastName": "Racing",
       "birthDate": "0196-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 12,
-      "name": "SkyVision",
-      "gender": "M",
+      "name": "SkyVision",      
       "lastName": "Racing",
       "birthDate": "0265-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 13,
-      "name": "UpComing, Sports",
-      "gender": "M",
+      "name": "UpComing, Sports",      
       "lastName": "Sports",
       "birthDate": "0235-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 14,
-      "name": "LiveBetting, Sports",
-      "gender": "M",
+      "name": "LiveBetting, Sports",      
       "lastName": "Sports",
       "birthDate": "0245-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
-      "id": 15,
-      "name": "WatchLive, Sports",
-      "gender": "M",
+      "id": 15,      
       "lastName": "Sports",
       "birthDate": "0295-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 16,
-      "name": "UpComing, Sports",
-      "gender": "M",
+      "name": "UpComing, Sports",      
       "lastName": "Sports",
       "birthDate": "0365-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 17,
-      "name": "MultiExpress, Sports",
-      "gender": "M",
+      "name": "MultiExpress, Sports",      
       "lastName": "Sports",
       "birthDate": "0305-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 18,
-      "name": "EnhancedOdds, Sports",
-      "gender": "M",
+      "name": "EnhancedOdds, Sports",      
       "lastName": "Sports",
       "birthDate": "0315-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 19,
-      "name": "Basketball, FeaturedSports",
-      "gender": "M",
+      "name": "Basketball, FeaturedSports",      
       "lastName": "FeaturedSports",
       "birthDate": "0325-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 20,
-      "name": "Tennis, FeaturedSports",
-      "gender": "M",
+      "name": "Tennis, FeaturedSports",      
       "lastName": "FeaturedSports",
       "birthDate": "0335-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 21,
-      "name": "Soccer, FeaturedSports",
-      "gender": "M",
+      "name": "Soccer, FeaturedSports",      
       "lastName": "FeaturedSports",
       "birthDate": "0345-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 22,
-      "name": "AmericanFootball, AllSports",
-      "gender": "M",
+      "name": "AmericanFootball, AllSports",      
       "lastName": "AllSports",
       "birthDate": "0355-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 23,
-      "name": "AustralianRules, AllSports",
-      "gender": "M",
+      "name": "AustralianRules, AllSports",      
       "lastName": "AllSports",
       "birthDate": "0333-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 24,
-      "name": "Baseball, AllSports",
-      "gender": "M",
+      "name": "Baseball, AllSports",     
       "lastName": "AllSports",
       "birthDate": "0239-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 25,
-      "name": "Boxing, AllSports",
-      "gender": "M",
+      "name": "Boxing, AllSports",      
       "lastName": "AllSports",
       "birthDate": "0267-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 26,
-      "name": "Chess, AllSports",
-      "gender": "M",
+      "name": "Chess, AllSports",      
       "lastName": "AllSports",
       "birthDate": "0288-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 27,
-      "name": "Cricket, AllSports",
-      "gender": "M",
+      "name": "Cricket, AllSports",      
       "lastName": "AllSports",
       "birthDate": "0226-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 28,
-      "name": "Cycling, AllSports",
-      "gender": "M",
+      "name": "Cycling, AllSports",      
       "lastName": "AllSports",
       "birthDate": "0154-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 29,
-      "name": "Darts, AllSports",
-      "gender": "M",
+      "name": "Darts, AllSports",      
       "lastName": "AllSports",
       "birthDate": "0090-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 30,
-      "name": "Golf, AllSports",
-      "gender": "M",
+      "name": "Golf, AllSports",      
       "lastName": "AllSports",
       "birthDate": "0054-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 31,
-      "name": "Handball, AllSports",
-      "gender": "M",
+      "name": "Handball, AllSports",      
       "lastName": "AllSports",
       "birthDate": "0082-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 32,
-      "name": "IceHockey, AllSports",
-      "gender": "M",
+      "name": "IceHockey, AllSports",      
       "lastName": "AllSports",
       "birthDate": "0033-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 33,
-      "name": "LawnBowls, AllSports",
-      "gender": "M",
+      "name": "LawnBowls, AllSports",      
       "lastName": "AllSports",
       "birthDate": "0047-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 34,
-      "name": "MMA, AllSports",
-      "gender": "M",
+      "name": "MMA, AllSports",      
       "lastName": "AllSports",
       "birthDate": "0049-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 35,
-      "name": "MotorSports, AllSports",
-      "gender": "M",
+      "name": "MotorSports, AllSports",      
       "lastName": "AllSports",
       "birthDate": "0025-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 36,
-      "name": "NetBall, AllSports",
-      "gender": "M",
+      "name": "NetBall, AllSports",      
       "lastName": "AllSports",
       "birthDate": "0027-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 37,
-      "name": "RugbyLeague, AllSports",
-      "gender": "M",
+      "name": "RugbyLeague, AllSports",      
       "lastName": "AllSports",
       "birthDate": "0030-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 38,
-      "name": "RugbyUnion, AllSports",
-      "gender": "M",
+      "name": "RugbyUnion, AllSports",      
       "lastName": "AllSports",
       "birthDate": "0039-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 39,
-      "name": "Snooker, AllSports",
-      "gender": "M",
+      "name": "Snooker, AllSports",      
       "lastName": "AllSports",
       "birthDate": "0048-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 40,
-      "name": "Surfing, AllSports",
-      "gender": "M",
+      "name": "Surfing, AllSports",      
       "lastName": "AllSports",
       "birthDate": "0052-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 41,
-      "name": "TableTennis, AllSports",
-      "gender": "M",
+      "name": "TableTennis, AllSports",      
       "lastName": "AllSports",
       "birthDate": "0054-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
       "id": 42,
-      "name": "VolleyBall, AllSports",
-      "gender": "M",
+      "name": "VolleyBall, AllSports",      
       "lastName": "AllSports",
       "birthDate": "0077-01-01T00:00:00.000Z",
       "deathDate": null
