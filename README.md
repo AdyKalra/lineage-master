@@ -1,10 +1,7 @@
 lineage
 =======
 
-Family Tree Data Expression Engine
-
-See a live demo at
-http://www.bengarvey.com/lineage
+Tree Data Expression Engine
 
 ### Notes
 - For viewing large datasets, it may help to zoom out your browser
@@ -13,5 +10,6 @@ http://www.bengarvey.com/lineage
 - To hear the music, check the music checkbox and press play
 - To see the full dataset in the demo, remove all the names from the search box
 
+Host local server
 python -m http.server 4000
 
