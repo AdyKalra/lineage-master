@@ -10,15 +10,15 @@ function Lineage() {
   }
 
   var config = {
-    startYear:2014,
-    endYear: 2014,
+    startYear:2019,
+    endYear: 2019,
     speed: 100,
     debug: false
   };
 
   timeStart('init', config);
 
-  var year = 1800;
+  var year = 0001;
 
   var CLUSTER_COL_SPACING = 10;
   var CLUSTER_ROW_SPACING = 40;
