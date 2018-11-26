@@ -4,3 +4,4 @@ config_ben.json
 *.json
 node_modules/
 .vs/
+index.html
