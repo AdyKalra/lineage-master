@@ -2,22 +2,22 @@
   "nodes": [
     {
       "id": 0,
-      "name": "Thoroughbreds, Racing",
-      "lastName": "Racing",
+      "name": "Thoroughbreds, Races",
+      "lastName": "Races",
       "birthDate": "0005-01-01T00:00:00.000Z",
       "deathDate": "0365-01-01T00:00:00.000Z"
     },
     {
       "id": 1,
-      "name": "Greyhounds, Racing",      
-      "lastName": "Racing",
+      "name": "Greyhounds, Races",      
+      "lastName": "Races",
       "birthDate": "0015-01-01T00:00:00.000Z",
       "deathDate": "0365-01-01T00:00:00.000Z"
     },
     {
       "id": 2,
-      "name": "Harness, Racing",      
-      "lastName": "Racing",
+      "name": "Harness, Races",      
+      "lastName": "Races",
       "birthDate": "0010-01-01T00:00:00.000Z",
       "deathDate": "0365-01-01T00:00:00.000Z"
     },
@@ -329,10 +329,10 @@
       "deathDate": null
     },
 	{
-      "id": 46,
+      "id": 105,
       "name": "NewZealand, Racing",      
       "lastName": "Racing",
-      "birthDate": "0143-01-01T00:00:00.000Z",
+      "birthDate": "0138-01-01T00:00:00.000Z",
       "deathDate": null
     },
 	{
@@ -663,6 +663,272 @@
       "lastName": "Racing",
       "birthDate": "0114-01-01T00:00:00.000Z",
       "deathDate": null
+    },
+	{
+      "id": 94,
+      "name": "Beaudesert, Racing",      
+      "lastName": "Racing",
+      "birthDate": "0115-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 95,
+      "name": "Doomben, Racing",      
+      "lastName": "Racing",
+      "birthDate": "0116-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 96,
+      "name": "EagleFarm, Racing",      
+      "lastName": "Racing",
+      "birthDate": "0117-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 97,
+      "name": "GoldCoast, Racing",      
+      "lastName": "Racing",
+      "birthDate": "0118-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 98,
+      "name": "Gympie, Racing",      
+      "lastName": "Racing",
+      "birthDate": "0119-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 99,
+      "name": "Ipswich, Racing",      
+      "lastName": "Racing",
+      "birthDate": "0120-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 100,
+      "name": "Ipswich, Racing",      
+      "lastName": "Racing",
+      "birthDate": "0121-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 101,
+      "name": "SunshineCoast, Racing",      
+      "lastName": "Racing",
+      "birthDate": "0122-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 102,
+      "name": "Toowoomba, Racing",      
+      "lastName": "Racing",
+      "birthDate": "0123-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 103,
+      "name": "Townsville, Racing",      
+      "lastName": "Racing",
+      "birthDate": "0124-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 104,
+      "name": "Warwick, Racing",      
+      "lastName": "Racing",
+      "birthDate": "0125-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 105,
+      "name": "Morphettville, Racing",      
+      "lastName": "Racing",
+      "birthDate": "0125-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 106,
+      "name": "Oakbank, Racing",      
+      "lastName": "Racing",
+      "birthDate": "0126-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 107,
+      "name": "Strathalbyn, Racing",      
+      "lastName": "Racing",
+      "birthDate": "0127-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 108,
+      "name": "Ascot, Racing",      
+      "lastName": "Racing",
+      "birthDate": "0128-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 109,
+      "name": "Belmont, Racing",      
+      "lastName": "Racing",
+      "birthDate": "0129-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 110,
+      "name": "Broome, Racing",      
+      "lastName": "Racing",
+      "birthDate": "0130-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 111,
+      "name": "Bunbury, Racing",      
+      "lastName": "Racing",
+      "birthDate": "0131-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 112,
+      "name": "Geraldton, Racing",      
+      "lastName": "Racing",
+      "birthDate": "0132-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 113,
+      "name": "MtBarker, Racing",      
+      "lastName": "Racing",
+      "birthDate": "0133-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 114,
+      "name": "Narrogin, Racing",      
+      "lastName": "Racing",
+      "birthDate": "0134-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 115,
+      "name": "PinjarraPark, Racing",      
+      "lastName": "Racing",
+      "birthDate": "0135-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 116,
+      "name": "Hobart, Racing",      
+      "lastName": "Racing",
+      "birthDate": "0268-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 117,
+      "name": "Canberra, Racing",      
+      "lastName": "Racing",
+      "birthDate": "0269-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 118,
+      "name": "AliceSprings, Racing",      
+      "lastName": "Racing",
+      "birthDate": "0270-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 119,
+      "name": "Darwin, Racing",      
+      "lastName": "Racing",
+      "birthDate": "0271-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 120,
+      "name": "Darwin, Racing",      
+      "lastName": "Racing",
+      "birthDate": "0271-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 121,
+      "name": "Darwin, Races",      
+      "lastName": "Races",
+      "birthDate": "0271-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 122,
+      "name": "Darwin, Races",      
+      "lastName": "Races",
+      "birthDate": "0271-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 123,
+      "name": "Darwin, Races",      
+      "lastName": "Races",
+      "birthDate": "0271-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 124,
+      "name": "Darwin, Races",      
+      "lastName": "Races",
+      "birthDate": "0271-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 125,
+      "name": "Darwin, Races",      
+      "lastName": "Races",
+      "birthDate": "0271-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 126,
+      "name": "Darwin, Races",      
+      "lastName": "Races",
+      "birthDate": "0271-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 127,
+      "name": "Darwin, Races",      
+      "lastName": "Races",
+      "birthDate": "0271-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 128,
+      "name": "Darwin, Races",      
+      "lastName": "Races",
+      "birthDate": "0271-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 129,
+      "name": "Darwin, Races",      
+      "lastName": "Races",
+      "birthDate": "0271-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 130,
+      "name": "Darwin, Races",      
+      "lastName": "Races",
+      "birthDate": "0271-01-01T00:00:00.000Z",
+      "deathDate": null
+    },
+	{
+      "id": 131,
+      "name": "Darwin, Races",      
+      "lastName": "Races",
+      "birthDate": "0271-01-01T00:00:00.000Z",
+      "deathDate": null
     }
 	
   ],
@@ -719,6 +985,384 @@
       "source": 19,
       "target": 21,
       "color": "#39F",
+      "relation": "spouse"
+    },
+	{
+      "source": 48,
+      "target": 56,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 48,
+      "target": 57,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 48,
+      "target": 58,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 48,
+      "target": 59,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 48,
+      "target": 61,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 48,
+      "target": 62,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 48,
+      "target": 63,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 48,
+      "target": 64,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 48,
+      "target": 65,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 48,
+      "target": 66,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 48,
+      "target": 67,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 48,
+      "target": 68,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 48,
+      "target": 69,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 48,
+      "target": 70,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 49,
+      "target": 71,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 49,
+      "target": 72,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 49,
+      "target": 73,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 49,
+      "target": 74,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 49,
+      "target": 75,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 49,
+      "target": 76,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 49,
+      "target": 77,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 49,
+      "target": 78,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 49,
+      "target": 79,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 49,
+      "target": 80,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 49,
+      "target": 81,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 49,
+      "target": 82,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 49,
+      "target": 83,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 49,
+      "target": 84,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 49,
+      "target": 85,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 49,
+      "target": 86,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 49,
+      "target": 87,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 49,
+      "target": 88,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 49,
+      "target": 89,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 49,
+      "target": 90,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 49,
+      "target": 91,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 49,
+      "target": 92,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 49,
+      "target": 93,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 50,
+      "target": 94,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 50,
+      "target": 95,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 50,
+      "target": 96,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 50,
+      "target": 97,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 50,
+      "target": 98,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 50,
+      "target": 99,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 50,
+      "target": 100,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 50,
+      "target": 104,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 50,
+      "target": 101,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 50,
+      "target": 102,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 50,
+      "target": 103,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 51,
+      "target": 105,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 51,
+      "target": 106,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 51,
+      "target": 107,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 52,
+      "target": 108,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 52,
+      "target": 109,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 52,
+      "target": 110,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 52,
+      "target": 111,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 52,
+      "target": 112,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 52,
+      "target": 113,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 52,
+      "target": 114,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 52,
+      "target": 115,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 53,
+      "target": 116,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 54,
+      "target": 117,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 55,
+      "target": 118,
+      "color": "#CC0",
+      "relation": "spouse"
+    },
+	{
+      "source": 55,
+      "target": 119,
+      "color": "#CC0",
       "relation": "spouse"
     }	
   ]
