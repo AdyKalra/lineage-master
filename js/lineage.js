@@ -23,7 +23,7 @@ function Lineage() {
   var CLUSTER_COL_SPACING = 10;
   var CLUSTER_ROW_SPACING = 40;
 
-  var TIMELINE_SPEED = 0.8;
+  var TIMELINE_SPEED = 0.3;
 
   var svg = d3.select("svg");
       width = window.innerWidth,
@@ -380,7 +380,7 @@ function Lineage() {
 
     for(i=0; i<users.length; i++) {
       d = users[i].values[0];
-      scale = ((d.birthDate.substring(0,4) - 1750) / (2020 - 1750) - 0.5);
+      scale = ((d.birthDate.substring(0,4)) / (365) - 0.5);
       d.x += (width*scale - d.x) * TIMELINE_SPEED;
     }
 
